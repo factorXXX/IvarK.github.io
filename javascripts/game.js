@@ -55,7 +55,7 @@ var player = {
     achievements: [],
     infinityUpgrades: [],
     challenges: [],
-    currentChallenge: "challenge4",
+    currentChallenge: "challenge6",
     infinityPoints: new Decimal(0),
     infinitied: 0,
     infinitiedBank: 0,
